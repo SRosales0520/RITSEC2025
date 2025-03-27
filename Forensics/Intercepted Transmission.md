@@ -1,7 +1,7 @@
 # Intercepted Transmission - Solved
 
-![InterceptedTransmission](./Media/InterceptedTransmission.png)
-[pcap download](./Media/transmission.pcapng)
+![InterceptedTransmission](./assets/InterceptedTransmission.png)
+[pcap download](./assets/transmission.pcapng)
 
 For this challenge, it seemed the focus was on ping traffic (aka ICMP).
 
@@ -15,6 +15,6 @@ Once this was done, I manually pieced together the flag as there were now only 1
 
 Flag: ```RS{Its A Coverup}```
 
-![pcap1](./Media/pcap1.PNG)
-![pcap2](./Media/pcap2.PNG)
-![pcap3](./Media/pcap3.PNG)
+![pcap1](./assets/pcap1.PNG)
+![pcap2](./assets/pcap2.PNG)
+![pcap3](./assets/pcap3.PNG)
